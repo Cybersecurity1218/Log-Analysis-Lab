@@ -20,6 +20,5 @@ This project demonstrates how to analyze different types of log files for **fail
 - `successful_login.log`: Successful logins (just for context).
 
 ## 🎯 Author
-- Name: Your Name
-- LinkedIn: [Your LinkedIn Profile]
-- Blog: [Your Blog if any]
+- Name: Haris Ali    
+- LinkedIn: [www.linkedin.com/in/harisali-cyberdude]
