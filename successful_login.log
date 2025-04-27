@@ -1,0 +1,2 @@
+Apr 28 10:10:15 server sshd[1237]: Accepted password for user admin from 192.168.1.105 port 22 ssh2
+    Apr 28 10:12:45 server sshd[1238]: Accepted password for user root from 192.168.1.106 port 22 ssh2
